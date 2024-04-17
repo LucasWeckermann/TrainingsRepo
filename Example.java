@@ -4,6 +4,6 @@ public class Example {
 		double pi = 3,141592653589793238462643383;
 		System.out.println("Zahlen über Zahlen");
 		String text = "Hallo";
-		char z = 'W';
+		char z = "W";
 	}
 }
